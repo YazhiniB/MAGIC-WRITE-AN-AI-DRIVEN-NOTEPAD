@@ -81,7 +81,7 @@ Please read CONTRIBUTING.md for details on our code of conduct and the process f
 
 Authors
 
-Yazhini B - YazhiniB
+Yazhini B - https://github.com/YazhiniB
 
 License
 
