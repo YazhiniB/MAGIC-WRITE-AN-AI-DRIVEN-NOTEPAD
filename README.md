@@ -1,3 +1,5 @@
+You can view the website by clicking this link : https://www.jotform.com/app/241253614585457
+
 Overview
 
 Magic Write is an AI-driven notepad application designed to help you organize your thoughts, daily tasks, and emotions. Whether you want to log your notes, track your daily feelings, or organize your tasks, Magic Write is here to assist you with the power of AI.
